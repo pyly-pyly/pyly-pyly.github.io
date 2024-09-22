@@ -1,7 +1,7 @@
-Hello!GitHub Page!
+Welcome to PYLY Store!
 
-My Page's Indev
+The store sells Minecraft Mod or Plugin.
 
-Wait me!
+But it's being developed
 
-Go!
+Wait until around 2025 year!
